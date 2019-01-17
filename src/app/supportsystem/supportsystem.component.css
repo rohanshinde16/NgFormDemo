@@ -1,0 +1,5 @@
+.star label:after { content:"*"; color: red}
+.head { color: violet}
+.btn-secondary {
+    background-color: rgb(180, 48, 197);
+}
